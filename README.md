@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumya</h1>
 <h3 align="center">A passionate Java Developer</h3>
-<h3 align="center">🔭 I’m currently working on Capgemini</h3>
+<h3 align="center">🔭 I’m currently working on Capgemini</h3> <img src="https://www.google.com/imgres?q=icon%20capgemini%20logo&imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20180401%2Fwfe%2Fkisspng-capgemini-sogeti-engineering-information-industry-blockchain-5ac0a0f85f2bd0.5897938315225735603898.jpg&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-capgemini-sogeti-engineering-information-industry-813345%2F&docid=y5qUUZoBGwjfwM&tbnid=MG1uafVl0HZ6FM&vet=12ahUKEwiL_bKvz9uGAxXtT2wGHRe7Bz0QM3oECBoQAA..i&w=900&h=680&hcb=2&ved=2ahUKEwiL_bKvz9uGAxXtT2wGHRe7Bz0QM3oECBoQAA" alt="bash" width="40" height="40"/>
 
 <!--
 **Soumyranjansahoo/Soumyranjansahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
