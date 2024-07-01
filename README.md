@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/soumyapintu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Soumya Ranjan Sahoo" height="30" width="40" /></a>
-<a href="https://www.instagram.com/coder_pintu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raham_remo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/codecraft_soumya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raham_remo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
