@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumya</h1>
 <h3 align="center">A passionate Java Developer & DEVOPS Engineer With AWS</h3>
-<h3 align="center" style="color: blue;">🔭 I’m currently working on Capgemini</h3>
+<h3 align="center" style="color: blue;">🔭 I’m currently working in Capgemini</h3>
 
 <!--
 **Soumyranjansahoo/Soumyranjansahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
